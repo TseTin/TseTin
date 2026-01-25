@@ -1,16 +1,12 @@
-## Hi there 👋
+# {Chinese}<making：D>
+## IVE >>>DFS IT（I should call him HKIIT...?
+### <a href="https://www.microsoft.com/en-hk/windows"> Windows</a> 和 <a href= "https://www.apple.com/hk/en/os/macos/"> Mac </a> User
 
-<!--
-**TseTin/TseTin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://skillicons.dev">
+<img
+src="https://skillicons.dev/icons?i=apple,discord,windows,vscode,swift,py,github,instagram" />
+</一個>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####uhhhh....I can't think of anything else.:D
