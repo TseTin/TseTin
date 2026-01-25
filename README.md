@@ -1,6 +1,6 @@
 # {Chinese}<making：D>
 ## IVE >>>DFS IT（I should call him HKIIT...?
-### <a href="https://www.microsoft.com/en-hk/windows"> Windows</a> 和 <a href= "https://www.apple.com/hk/en/os/macos/"> Mac </a> User
+### <a href="https://www.microsoft.com/en-hk/windows"> Windows</a> and <a href= "https://www.apple.com/hk/en/os/macos/"> Mac </a> User
 
 <p align="left">
 <a href="https://skillicons.dev">
