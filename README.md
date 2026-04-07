@@ -6,7 +6,7 @@
 <a href="https://skillicons.dev">
 <img
 src="https://skillicons.dev/icons?i=apple,discord,windows,vscode,swift,py,github,instagram" />
-</一個>
+</a>
 </p>
 
 <p>hhhh....I can't think of anything else.:D</p>
