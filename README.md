@@ -1,4 +1,4 @@
-# {Chinese}<making：D>
+# {Chinese}<making....-> no I no make this shiiiit：D>
 ## TKPS >>> CYS >> DFS IT > HD AI and Mobile Application Development
 ### <a href="https://www.microsoft.com/en-hk/windows"> Windows</a> and <a href= "https://www.apple.com/hk/en/os/macos/"> Mac </a> User
 
